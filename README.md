@@ -1,10 +1,13 @@
 ### Hi there 👋, I am Stoian Delev
-#### Developer
+
 ![Developer](https://media-exp1.licdn.com/dms/image/C4E16AQEVyFDSE031bA/profile-displaybackgroundimage-shrink_350_1400/0/1621422310369?e=1632355200&v=beta&t=XNY9WJJr1KKc9EeDTlUudVDQ7HG8H4ewrMlnRIjebV4)
 
 I am Stoian Delev from Bulgaria, Sofia and I am Java Web Developer. I really enjoy learning languages and frameworks likes Java, JS, Spring, ReactJS, Angular.
 
-Skills: JAVA / JS / REACT / HTML / CSS / ANGULAR / SPRING
+## Skills and Experience
+* ☕️ JAVA
+* ⚛️ REACT
+* 💻 HTML, CSS , AGNULAR, SPRING
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/stoiandelev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/stoyan-delev-969995212/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/stoian.delev.9)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/stoian-delev)  
 
