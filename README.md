@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 I am Stoyan Delev from Bulgaria, Sofia and I am Java Web Developer. I really enjoy learning languages and frameworks likes Java, JS, Spring, ReactJS, Angular.
+You can check out my linkedin https://www.linkedin.com/in/stoyan-delev-969995212/ or facebook https://www.facebook.com/stoian.delev.9 for contact to me.
 
 <!--
 **stoiandelev/stoiandelev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
