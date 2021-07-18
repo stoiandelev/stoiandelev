@@ -5,3 +5,5 @@ You can check out my linkedin https://www.linkedin.com/in/stoyan-delev-969995212
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stoiandelev)](https://github.com/anuraghazra/github-readme-stats)
 
+Skills: JAVA / JS / ANGULAR / SPRING / REACTJS
+
