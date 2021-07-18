@@ -5,7 +5,7 @@
 ## Skills and Experience
 * ☕️ JAVA
 * ⚛️ REACT
-* 💻 HTML, CSS , AGNULAR, SPRING
+* 💻 HTML, CSS , ANGULAR, SPRING
 
 
 
