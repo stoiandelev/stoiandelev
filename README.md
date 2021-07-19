@@ -6,7 +6,7 @@
 * ☕️ JAVA
 * ⚛️ REACT
 * 🍃 ANGULAR
-* 💻 HTML, CSS, SPRING
+* 💻 HTML, CSS, JS, SPRING
 
 
 
