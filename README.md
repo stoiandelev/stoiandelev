@@ -4,6 +4,7 @@
 
 ## Skills and Experience
 * ☕️ JAVA
+* 🦅 SWIFT
 * ⚛️ REACT
 * 🍃 ANGULAR
 * 💻 HTML, CSS, JS, SPRING
