@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Stoian Delev
 
-![Developer](https://media-exp1.licdn.com/dms/image/C4E16AQEVyFDSE031bA/profile-displaybackgroundimage-shrink_350_1400/0/1621422310369?e=1632355200&v=beta&t=XNY9WJJr1KKc9EeDTlUudVDQ7HG8H4ewrMlnRIjebV4)
+![Developer](https://https://www.linkedin.com/in/stoyan-delev/detail/background-image/)
 
 ## Skills and Experience
 * ☕️ JAVA
