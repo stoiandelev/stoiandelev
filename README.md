@@ -11,7 +11,7 @@
 
 
 
-## Skills and Experience
+ Skills and Experience
 * ☕️ JAVA
 * 🦅 SWIFT
 * ⚛️ REACT
