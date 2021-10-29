@@ -31,7 +31,6 @@
 ![Profile views](https://gpvc.arturio.dev/stoiandelev)  
 
 <div>
-  <img height="160" align="left" src="https://github-readme-stats.vercel.app/api?username=stoiandelev&count_private=true&true&hide=issues&show_icons=true" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stoiandelev&layout=compact" />
 </div>
 
