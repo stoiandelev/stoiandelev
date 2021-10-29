@@ -6,10 +6,9 @@
 
 ### I used the following techs and languages: Java, JS, Spring, Spring MVC, AngularJS, ReactJS , MySQL, HTML, CSS, Selenium, Linux based OS.
 
-
-
-
-
+<div>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stoiandelev&layout=compact" />
+</div>
 
  Skills and Experience
 * ☕️ JAVA
@@ -29,8 +28,4 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=stoiandelev&show_icons=true)  
 
 ![Profile views](https://gpvc.arturio.dev/stoiandelev)  
-
-<div>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stoiandelev&layout=compact" />
-</div>
 
