@@ -12,10 +12,10 @@
 
  Skills and Experience
 * ☕️ JAVA
-* 🦅 SWIFT
-* ⚛️ REACT
+* 🌿 SPRING
+* ⚛ REACT
 * 🍃 ANGULAR
-* 💻 HTML, CSS, JS, SPRING
+* 💻 HTML, CSS, JS
 
 
 
