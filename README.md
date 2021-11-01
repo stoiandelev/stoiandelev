@@ -4,7 +4,7 @@
 
 ### My passion is programming and that's what I want to work.I'm constantly trying to improve and learn new things.
 
-### I used the following techs and languages: Java, JS, Spring, Spring MVC, AngularJS, ReactJS , MySQL, HTML, CSS, Selenium, Linux based OS.
+### I used the following techs and languages: Java, JS, Spring, AngularJS, ReactJS , MySQL, HTML, CSS, Selenium, Linux based OS.
 
 <div>
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stoiandelev&layout=compact" />
