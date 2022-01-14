@@ -6,9 +6,6 @@
 
 ### I used the following techs and languages: Java, JS, Spring, Angular, React, NodeJS, MySQL, HTML, CSS, Selenium.
 
-<div>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stoiandelev&layout=compact" />
-</div>
 
  Skills and Experience
 * ☕️ JAVA
