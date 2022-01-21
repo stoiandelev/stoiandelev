@@ -7,7 +7,7 @@
 ### I used the following techs and languages: Java, JS, Spring, Angular, React, NodeJS, MySQL, HTML, CSS, Selenium.
 
 
- Skills and Experience
+### Skills and Experience
 * ☕️ JAVA
 * 🌿 SPRING
 * ⚛ REACT
