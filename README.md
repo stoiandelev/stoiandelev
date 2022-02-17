@@ -4,7 +4,7 @@
 
 ### My passion is programming and that's what I want to do. I'm constantly trying to improve and learn new things.
 
-### I used the following techs and languages: Java, JS, Spring, Angular, React, NodeJS, MySQL, HTML, CSS, Selenium.
+### I used the following techs and languages: Java, JS, Spring, Angular, React, NodeJS, MySQL, Hibernate, HTML, CSS, Selenium.
 
 
 ### Skills and Experience
