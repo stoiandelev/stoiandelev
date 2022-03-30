@@ -10,8 +10,6 @@
 ### Skills and Experience
 * ☕️ JAVA
 * 🌿 SPRING
-* ⚛ REACT
-* 🍃 ANGULAR
 * 💻 HTML, CSS, JS, NodeJS
 
 
