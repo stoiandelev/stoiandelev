@@ -1,6 +1,7 @@
 ### Hi there 👋, I am Stoian Delev
 
-### Motivated, self-organized and self-responsible person, team player, with the ability efficiently to manage his time, tasks, and projects. Collaborator, who works under pressure and takes decisions proactively with an open and problem-solving mindset, while keeping an eye on details. Ability to communicate with partners and employees at every level in the organization and outside, to listen to the people, to value and to respect feedback, to learn from mistakes, to motivate people. With multi-international company experience in people, team and project management, suppliers’, contract management, business and IT administration can adapt successfully to changes. Excellent verbal and written communication skills in both Bulgarian and English languages.
+### Motivated, self-organized and self-responsible person, team player, with the ability  to manage efficiently his time, tasks, and projects. Collaborator, who can work under pressure and can take decisions proactively with an open and problem-solving mindset, while keeping an eye on details. Ability to communicate with partners and employees at every level in the organization and outside, listen to people and motivate, value and respect feedback, learn from mistakes. With multi-international company experience in people, team and project management, suppliers, contract management,  and IT administration can adapt successfully to changes. Excellent verbal and written communication skills in both Bulgarian and English languages.
+
 
 ### My passion is programming and that's what I want to do. I'm constantly trying to improve and learn new things.
 
