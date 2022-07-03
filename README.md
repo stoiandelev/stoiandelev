@@ -12,7 +12,7 @@
 
 ### Skills and Experience
 * ☕️ JAVA
-* 🌿 SPRING BOOT
+* 🌿 SPRING SECURITY
 * 🌿 SPRING DATA
 * 🌿 SPRING WEB
 
