@@ -11,23 +11,32 @@
 
 
 ### Skills and Experience
-* JAVA
-* SPRING
-* UNIT AND INTEGRATION TEST
-* DATA STRUCTURES
-* ERROR HANDLING
-* MY SQL
-* SOLID
-* OOP
-* STREAM API
-* MAVEN, GRADLE
 
 
+## Back-End:
+
+* Java
+* Spring Boot
+* Spring MVC
+* Spring Security
+* MySQL Database
+* Hibernate
+* JPA
+* Scheduling
+* SLA
+* Grafana
+* MailHog
 
 
+## Front-End:
+
+* HTML
+* CSS
+* JavaScript
+* Thymeleaf
 
 
-
+## Links:
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/stoyan-delev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/stoian.delev.9)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/14215539/stoian-delev)  
 
