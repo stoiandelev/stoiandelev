@@ -16,11 +16,8 @@
 ## Back-End:
 
 * Java
-* Spring Boot
-* Spring MVC
-* Spring Security
+* Spring
 * MySQL Database
-* Hibernate
 * JPA
 * Scheduling
 * SLA
