@@ -27,11 +27,10 @@
 
 ## Front-End:
 
+* Thymeleaf
 * HTML
 * CSS
 * JavaScript
-* Thymeleaf
-
 
 ## Links:
 
